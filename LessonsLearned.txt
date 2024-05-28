@@ -1,0 +1,6 @@
+# list of lessons learned during this project
+
+- Conflict of 2 repos, Master and main branch.
+  Solution: Pushing the files using Github desktop worked(Main repo)
+- Java language not shown as the main language of repo
+  Solution: Created .gitattributes file and set the flag 'True' for Java, setting all the other language flags as 'False'

@@ -12,7 +12,8 @@ public class TestsExamples {
 		
 		Response response = RestAssured.get("https://reqres.in/api/users?page=2");
 		System.out.println("Status code:"+ response.statusCode());
-		System.out.println("Response time:"+ response.getTimeIn(TimeUnit.MICROSECONDS));		
+		System.out.println("Response time:"+ response.getTimeIn(TimeUnit.MICROSECONDS));	
+		System.out.println(response.statusCode());
 	}
 
 }

@@ -1,6 +1,6 @@
 ##This repository contains the project prepared for practicing REST Assured framework in JAVA for testing RESTful API.
 
-Tootls/Technologies used: Java, Eclipse IDE, Maven, TestNG, XML
+Tootls/Technologies used: Java, Eclipse IDE, VS Code studio, Maven, TestNG, XML
 
 Learning/ practicing:
 
